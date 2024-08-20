@@ -1,5 +1,7 @@
 # Practical Application Assignment 17.1
 
+## Notebook linked [here](https://github.com/Raesu/pcmlai-mod17/blob/main/prompt_III.ipynb)
+
 ### Intro
 The classification goal is to predict if a client will subscribe (yes/no) to a term deposit (y). Data files described below:
 - bank-additional-full has all examples 41188 and 20 inputs ordered by date May 2008 to November 2010
